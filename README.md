@@ -24,8 +24,7 @@ I do **not** take responsibility for misuse.
 - Python 3.x  
 - Linux / Kali Linux recommended  
 - Some scripts may require extra libraries:
-  ```bash
-  pip install scapy requests pillow opencv-python
+  
 
 
 ✍️ Author
